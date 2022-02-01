@@ -1,0 +1,12 @@
+gdk101	KEYWORD1
+begin	KEYWORD2
+reset	KEYWORD2
+status	KEYWORD2
+vibration	KEYWORD2
+uptime	KEYWORD2
+onSince	KEYWORD2
+reading10min	KEYWORD2
+reading1min	KEYWORD2
+firmware	KEYWORD2
+poweron	KEYWORD2
+poweroff	KEYWORD2
